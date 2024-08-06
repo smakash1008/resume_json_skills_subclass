@@ -1,0 +1,90 @@
+{
+    "Name": "Nanthni Priya R",
+    "Email Address": "priyananthni@gmail.com",
+    "Phone Number": "+91 9486934678",
+    "Skills": {
+        "Programming Language": [
+            "Java",
+            "JavaScript"
+        ],
+        "Automation Tool": [
+            "Tosca",
+            "Selenium Web Driver",
+            "Appium"
+        ],
+        "Framework": [
+            "POM",
+            "Hybrid - TestNG & Maven"
+        ],
+        "Version Control Tool": [
+            "GIT"
+        ],
+        "CI/CD": [
+            "Jenkins"
+        ],
+        "Build Management Tools": [
+            "Maven"
+        ],
+        "IDE": [
+            "IntelliJ"
+        ],
+        "Test Management Tools": [
+            "HP-ALM",
+            "Jira",
+            "TestRail"
+        ],
+        "Bug Reporting Tools": [
+            "Clear Quest",
+            "HP-ALM",
+            "Jira"
+        ],
+        "Mobile Testing Tools": [
+            "Perfecto",
+            "Browser Stack"
+        ],
+        "Test Methodologies": [
+            "Agile",
+            "Waterfall"
+        ],
+        "Database": [
+            "Oracle SQL"
+        ],
+        "API Testing": [
+            "Proxyman"
+        ],
+        "OS Platform": [
+            "Mac",
+            "Windows",
+            "Linux"
+        ],
+        "Push Notifications": [
+            "Clevertap",
+            "Klaviyo"
+        ],
+        "Event Tracking": [
+            "Google Analytics",
+            "Firebase"
+        ]
+    },
+    "Total Years Of Experience": "6",
+    "Work Domain": "Mobile Applications",
+    "Work Experience": [
+        "Plobal Apps",
+        "STG InfoTech",
+        "Tech Mahindra"
+    ],
+    "Date of Birth": "NOT AVAILABLE",
+    "Gender": "NOT AVAILABLE",
+    "Marital Status": "NOT AVAILABLE",
+    "Nationality": "NOT AVAILABLE",
+    "Languages": "NOT AVAILABLE",
+    "Education Details": {
+        "Educational Institution": "Bannari Amman Institute of Technology",
+        "Education Course": "Bachelor of Engineering",
+        "Education Branch": "Electronics & Communication Engineering",
+        "Graduation Year": "2017",
+        "Exam Percentage": "7.35"
+    },
+    "Courses and Certification": "NOT AVAILABLE",
+    "Project Details": "NOT AVAILABLE"
+}

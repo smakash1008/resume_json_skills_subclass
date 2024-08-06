@@ -1,0 +1,100 @@
+{
+    "Name": "SUGANDHAN R",
+    "Email Address": "sugusugan0@gmail.com",
+    "Phone Number": "91 9944718659",
+    "Skills": {
+        "Programming Languages": [
+            "Java",
+            "Javascript"
+        ],
+        "Database Tools": [
+            "mySQL"
+        ],
+        "Testing Tools": [
+            "Selenium webdriver",
+            "Webdriver io",
+            "Appium",
+            "Jasmin",
+            "Sauce lab",
+            "Perfecto"
+        ],
+        "CI/CD Tools": [
+            "Jenkins",
+            "Watchpost"
+        ],
+        "Other Tools": [
+            "Macha chai",
+            "Xcode",
+            "Angular js"
+        ]
+    },
+    "Total Years Of Experience": 6.7,
+    "Work Domain": [
+        "B2B products"
+    ],
+    "Work Experience": [
+        "Tata Consultancy Services",
+        "Citi"
+    ],
+    "Date of Birth": "NOT AVAILABLE",
+    "Gender": "NOT AVAILABLE",
+    "Marital Status": "NOT AVAILABLE",
+    "Nationality": "NOT AVAILABLE",
+    "Languages": [
+        "English",
+        "French"
+    ],
+    "Education Details": {
+        "Educational Institution": "Sri Manakula vinayagar Engineering College",
+        "Education Course": "BTech",
+        "Education Branch": "Information Technology",
+        "Graduation Year": 2017,
+        "Exam Percentage": "NOT AVAILABLE"
+    },
+    "Courses and Certification": [
+        "Implemented CICD using jenkins",
+        "Created Selenium webdriver BDD Framework",
+        "Developed Webpage Utility Tool"
+    ],
+    "Project Details": [
+        {
+            "Project Name": "Woolworths Web application",
+            "Project Description": "Designing and executing Test cases, writing scripts for modules assigned using Selenium Web driver and Java.",
+            "Project Roles": "Automation Test Engineer",
+            "Project Duration": "08/2017-08/2022",
+            "Project Domain": "Web Application",
+            "Project Technologies": [
+                "Selenium Webdriver",
+                "Jenkins",
+                "Eclipse"
+            ]
+        },
+        {
+            "Project Name": "Marks and Spencers UK  Web-application, Mobile App",
+            "Project Description": "Responsible for all QA activities from Test Plan to Automation Coverage at each sprints in a scrum team, automate test cases before the end of every sprints to provide test coverage of user requirements.",
+            "Project Roles": "Automation Test Engineer",
+            "Project Duration": "08/2017-08/2022",
+            "Project Domain": [
+                "Web Application",
+                "Mobile Application"
+            ],
+            "Project Technologies": [
+                "Selenium Webdriver",
+                "Webdriver IO",
+                "Appium",
+                "xcode",
+                "Android Studio"
+            ]
+        },
+        {
+            "Project Name": "Payments & Grow",
+            "Project Description": "Leaded payments and grow domain testing team in APAC region, Created automation CICD framework and implemented it on entire project.",
+            "Project Roles": "Lead Automation Test Engineer",
+            "Project Duration": "08/2022-Present",
+            "Project Domain": "NOT AVAILABLE",
+            "Project Technologies": [
+                "Perfecto"
+            ]
+        }
+    ]
+}

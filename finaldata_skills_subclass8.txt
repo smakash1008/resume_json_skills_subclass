@@ -1,0 +1,287 @@
+{
+    "Name": "Mohammad A Rahman",
+    "Email Address": "rahman.opensourcedb@gmail.com",
+    "Phone Number": "+91-8861349278",
+    "Skills": {
+        "Cloud Technologies": [
+            "AWS",
+            "OCI",
+            "GCP",
+            "AWS EC2",
+            "RDS",
+            "Cloud Front",
+            "Route 53",
+            "Global Accelerator"
+        ],
+        "Databases": [
+            "Oracle Database",
+            "PostgreSQL",
+            "Aurora PostgreSQL",
+            "Oracle 10g",
+            "Oracle 11g",
+            "Oracle 12c",
+            "Oracle 19c",
+            "Multitenant Database",
+            "RAC",
+            "Cassandra NoSQL Database",
+            "Amazon Redshift",
+            "SQL Server Database",
+            "MongoDB"
+        ],
+        "Database Tools": [
+            "Oracle Golden Gate",
+            "Data Guard",
+            "FSFO",
+            "RMAN",
+            "OEM",
+            "Oracle Veridata",
+            "PGAdmin",
+            "Datadog",
+            "PG Extensions"
+        ],
+        "Other Tools": [
+            "SQL Developer",
+            "Toad",
+            "OEM 13c",
+            "DATADOG",
+            "JIRA Dashboard",
+            "Remedy"
+        ],
+        "Operating Systems": [
+            "AIX",
+            "HP-UX",
+            "Solaris",
+            "Linux",
+            "Red Hat"
+        ],
+        "Languages": [
+            "SQL",
+            "PLSQL",
+            "Shell",
+            "Python"
+        ]
+    },
+    "Total Years Of Experience": 16,
+    "Work Domain": [
+        "Healthcare",
+        "Manufacturing",
+        "Finance",
+        "Telecom",
+        "Retail"
+    ],
+    "Work Experience": [
+        "Virtusa  Private Limited",
+        "Collabera Technologies Private Limited",
+        "NTTDATA",
+        "IBM India PVT Ltd",
+        "Primus Global Solution Ltd",
+        "Apps Associates",
+        "Envision Enterprise Solution",
+        "Introlligent Solutions PVT Ltd.",
+        "IBM Daksh Pvt. Ltd.",
+        "Globerian India Pvt. Ltd",
+        "Matrix Processing House"
+    ],
+    "Date of Birth": "NOT AVAILABLE",
+    "Gender": "NOT AVAILABLE",
+    "Marital Status": "NOT AVAILABLE",
+    "Nationality": "NOT AVAILABLE",
+    "Languages": [
+        "English"
+    ],
+    "Education Details": [
+        {
+            "Educational Institution": "NOT AVAILABLE",
+            "Education Course": "MCA",
+            "Education Branch": "NOT AVAILABLE",
+            "Graduation Year": "NOT AVAILABLE",
+            "Exam Percentage": "NOT AVAILABLE"
+        }
+    ],
+    "Courses and Certification": [
+        "AWS Certified Solutions Architect Associate (SAA-C03)",
+        "Oracle Database Administrator Certified Professional (OCP)",
+        "Oracle Database Administrator Certified Associate (OCA)",
+        "Oracle Database Certified SQL Expert"
+    ],
+    "Project Details": [
+        {
+            "Project Name": "British Telecom – Cloud Migration and DB Replication",
+            "Project Description": "Complete SDLC for database up gradation and migration to 19c OEL 8 server along with maintenance procedures, documentation and ensure standards definition, security, and integrity.",
+            "Project Roles": "Database Architect",
+            "Project Duration": "Nov 2020 – Present",
+            "Project Domain": "Telecom",
+            "Project Technologies": [
+                "Oracle 11g",
+                "Multitenant 12/19c",
+                "OEM",
+                "Golden Gate",
+                "PostgreSQL",
+                "AWS",
+                "GCP"
+            ]
+        },
+        {
+            "Project Name": "INTUIT – Cloud Migration",
+            "Project Description": "Lead support role for BMR migration and coordinate multiple scrum teams.",
+            "Project Roles": "Database Architect",
+            "Project Duration": "Oct 2019 to Jul 2020",
+            "Project Domain": "Finance",
+            "Project Technologies": [
+                "Oracle Database 10g",
+                "Oracle Database 11g",
+                "Oracle Database 12c",
+                "Oracle Database 19c",
+                "OEM",
+                "Golden Gate",
+                "PostgreSQL Database",
+                "Cassandra NoSQL Database",
+                "Amazon Redshift database",
+                "AWS Cloud services",
+                "Storage",
+                "EC2",
+                "RDS",
+                "Route 53",
+                "Cloud Front",
+                "Global accelerator"
+            ]
+        },
+        {
+            "Project Name": "NTTDATA – Cloud Migration",
+            "Project Description": "Configured virtual machine on OCI and install, configured 11g database.",
+            "Project Roles": "Senior Database Administrator",
+            "Project Duration": "AUG2019 – SEPT2019",
+            "Project Domain": "Healthcare",
+            "Project Technologies": [
+                "Oracle 10g",
+                "Oracle 11g",
+                "Oracle 18c",
+                "RMAN",
+                "DATAPUMP",
+                "Oracle Cloud Infra(OCI)"
+            ]
+        },
+        {
+            "Project Name": "Shop Direct Group-IBM   Cloud Migration",
+            "Project Description": "Perform standard maintenance, administrative, PT statistics, and recommend corrective actions include backup recovery, up-gradation, migrate on-premise database to AWS EC2 servers as well RDS instances, and Golden Gate installation, configuration, tuning replication process.",
+            "Project Roles": "Senior Database Administrator",
+            "Project Duration": "APRIL2017 to JAN 2019",
+            "Project Domain": "Retail",
+            "Project Technologies": [
+                "Oracle 10g",
+                "Oracle 11g",
+                "Oracle 12c",
+                "SQL Server Database",
+                "Golden Gate",
+                "Veri-data",
+                "Linux",
+                "AWS Cloud Infra",
+                "JIRA"
+            ]
+        },
+        {
+            "Project Name": "Wipro Technology – Baxter",
+            "Project Description": "OEM cloud control, target promotion, migration, maintenance and support.",
+            "Project Roles": "Senior Database Administrator",
+            "Project Duration": "NOV2016 to MAR2017",
+            "Project Domain": "Healthcare",
+            "Project Technologies": [
+                "Oracle DB12c",
+                "EM 13c Cloud Control",
+                "Exa-Data X4-2"
+            ]
+        },
+        {
+            "Project Name": "IBM – AT & T",
+            "Project Description": "Migrate DB from window & Linux platform to standard Linux Cloud environment.",
+            "Project Roles": "Oracle Apps DBA",
+            "Project Duration": "MAR 2015 to OCT 2016",
+            "Project Domain": "Telecom",
+            "Project Technologies": [
+                "Oracle DB 10g",
+                "Oracle DB 11g",
+                "Oracle DB 12c",
+                "RAC",
+                "Golden Gate",
+                "MongoDB",
+                "SQL Server",
+                "Micro-Service"
+            ]
+        },
+        {
+            "Project Name": "Magma Fincorp",
+            "Project Description": "POC and documentation for migration plan with zero downtime.",
+            "Project Roles": "Consultant",
+            "Project Duration": "SEPT 2014 to FEB 2015",
+            "Project Domain": "Finance",
+            "Project Technologies": [
+                "Oracle 11g DB",
+                "RAC",
+                "X2-X4 Exadata",
+                "HP-Linux",
+                "Golden Gate"
+            ]
+        },
+        {
+            "Project Name": "Apps Associate – IKEA",
+            "Project Description": "Configure Oracle Golden Gate on heterogeneous environment for DML replication.",
+            "Project Roles": "Consultant",
+            "Project Duration": "JAN 2014 to AUG 2014",
+            "Project Domain": "Retail",
+            "Project Technologies": [
+                "Oracle 10g",
+                "Oracle 11g",
+                "Golden Gate",
+                "Veridata",
+                "E-Business Suite 12.1",
+                "SOA 11g",
+                "Fusion Applications"
+            ]
+        },
+        {
+            "Project Name": "Walgreens – ETL & Data movement",
+            "Project Description": "Golden Gate technical support for numbers of applications.",
+            "Project Roles": "Oracle Golden Gate DBA",
+            "Project Duration": "OCT 2012 to JAN 2014",
+            "Project Domain": "Retail",
+            "Project Technologies": [
+                "Oracle 10g",
+                "Oracle 11g",
+                "Golden Gate",
+                "JMS Queues",
+                "Flat Files integration",
+                "RAC",
+                "NAS"
+            ]
+        },
+        {
+            "Project Name": "Apple Inc.  – Manufacture Quality Management (MQM)",
+            "Project Description": "Responsible for 24X7 support of production databases.",
+            "Project Roles": "Oracle DBA",
+            "Project Duration": "MAY 2011 to AUG 2012",
+            "Project Domain": "Manufacturing",
+            "Project Technologies": [
+                "Oracle 10g",
+                "Oracle 11g",
+                "Grid",
+                "Golden Gate",
+                "Linux",
+                "Sun Solaris",
+                "Exadata V2",
+                "X2",
+                "Toad",
+                "SQL Developer"
+            ]
+        },
+        {
+            "Project Name": "UHG – Healthcare Medical Insurance",
+            "Project Description": "Proficiency with medical billing software and electronic health records (EHR).",
+            "Project Roles": "Healthcare Business Analyst",
+            "Project Duration": "Jan 2008 to Jun 2010",
+            "Project Domain": "Healthcare",
+            "Project Technologies": [
+                "Oracle E-Business Application"
+            ]
+        }
+    ]
+}

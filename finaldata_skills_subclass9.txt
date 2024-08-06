@@ -1,0 +1,298 @@
+{
+    "Name": "Hariharan",
+    "Email Address": "khariiharan@gmail.com",
+    "Phone Number": "+91-9600063087",
+    "Skills": {
+        "Database Management": [
+            "Oracle 19c",
+            "12c",
+            "11g",
+            "10g",
+            "SQL Server 2008 R2",
+            "MySQL",
+            "PostgreSQL",
+            "MongoDB",
+            "Redis",
+            "Elasticsearch",
+            "MS Access 2013"
+        ],
+        "Cloud Technologies": [
+            "Oracle Cloud (OCI)",
+            "AWS",
+            "ODA",
+            "DBCS",
+            "IAAS",
+            "PaaS",
+            "EC2",
+            "S3",
+            "DMS",
+            "SCT"
+        ],
+        "Oracle Tools & Technologies": [
+            "Exadata",
+            "Golden Gate",
+            "SQL",
+            "PL/SQL",
+            "RAC",
+            "ASM",
+            "RMAN",
+            "OEM",
+            "AWR",
+            "ADDM",
+            "Data Guard"
+        ],
+        "Scripting & Utilities": [
+            "Shell Scripting",
+            "Batch Scripting",
+            "PowerShell",
+            "ZFS",
+            "ZDLR"
+        ],
+        "Middleware": [
+            "IBM WebSphere",
+            "WebLogic 10.3",
+            "Apache Tomcat"
+        ],
+        "Project & Design Tools": [
+            "SQL Developer",
+            "SQL * Loader",
+            "Red Gate",
+            "Team Foundation Server",
+            "ERwin",
+            "Squirrel",
+            "MS Project 2003",
+            "Visio 2016",
+            "TOAD",
+            "PuTTY",
+            "ServiceNow",
+            "HPSM",
+            "NgAutofix",
+            "IBM Remedy"
+        ],
+        "Reporting Tools": [
+            "Crystal Reports",
+            "MS Reporting Services"
+        ]
+    },
+    "Total Years Of Experience": "15+ years",
+    "Work Domain": [
+        "Telecommunication",
+        "Retail",
+        "Insurance",
+        "Product Engineering",
+        "Dashboards and Monitoring Application",
+        "Supply Chain Management (SCM)"
+    ],
+    "Work Experience": [
+        "Virtusa Consulting Services Private Limited",
+        "MARLABS INNOVATIONS Private Ltd",
+        "WIPRO Technologies",
+        "WIPRO Information Technology Limited",
+        "SunSoft System"
+    ],
+    "Date of Birth": "NOT AVAILABLE",
+    "Gender": "NOT AVAILABLE",
+    "Marital Status": "NOT AVAILABLE",
+    "Nationality": "NOT AVAILABLE",
+    "Languages": "NOT AVAILABLE",
+    "Education Details": [
+        {
+            "Educational Institution": "Anna university",
+            "Education Course": "Master of Computer Application (M.C.A)",
+            "Education Branch": "NOT AVAILABLE",
+            "Graduation Year": "NOT AVAILABLE",
+            "Exam Percentage": "NOT AVAILABLE"
+        },
+        {
+            "Educational Institution": "Periyar university",
+            "Education Course": "Bachelor of Science",
+            "Education Branch": "Computer Technology",
+            "Graduation Year": "NOT AVAILABLE",
+            "Exam Percentage": "NOT AVAILABLE"
+        }
+    ],
+    "Courses and Certification": [
+        "12c Oracle Certified Professional (OCP)",
+        "11g Oracle Certified Professional (OCP)",
+        "10g Oracle Certified Professional (OCP)",
+        "AWS Certified Solutions Architect – Associate"
+    ],
+    "Project Details": [
+        {
+            "Project Name": "BT Telecommunication (BT Oracle ASG DBA GS Applications)",
+            "Project Description": "End to End migration of databases from DaaS, Non-EC environment to EC and AWS environments, including production database deliverables, consulting and providing solutions for various database problems. Responsible for architecting, designing, implementing and supporting cloud based infrastructure and its solutions.",
+            "Project Roles": "Database Architect",
+            "Project Duration": "APR 2019 – Till date",
+            "Project Domain": "Telecommunication",
+            "Project Technologies": [
+                "Oracle 19c",
+                "12c",
+                "11g",
+                "10g",
+                "AWS",
+                "Aurora PostgreSQL",
+                "MongoDB",
+                "DMS",
+                "S3",
+                "EC2",
+                "SCT",
+                "ADDM",
+                "AWR"
+            ]
+        },
+        {
+            "Project Name": "BT Telecommunication (BT Oracle EOSL Program GS – Cloud Migration)",
+            "Project Description": "End to End migration of databases from DaaS, Non-EC environment to EC and AWS environments, including production database deliverables, consulting and providing solutions for various database problems. Responsible for architecting, designing, implementing and supporting cloud based infrastructure and its solutions.",
+            "Project Roles": "Database Architect",
+            "Project Duration": "NOT AVAILABLE",
+            "Project Domain": "Telecommunication",
+            "Project Technologies": [
+                "Oracle 19c",
+                "12c",
+                "11g",
+                "10g",
+                "AWS",
+                "EC2",
+                "S3",
+                "Lambda",
+                "ADDM",
+                "AWR"
+            ]
+        },
+        {
+            "Project Name": "BT Telecommunication (BT Javelin GS)",
+            "Project Description": "Responsible for architecting, designing, implementing and supporting of cloud based infrastructure and its solutions. Installation, configuration and up gradation of Oracle 19c, 12c and 11g databases.",
+            "Project Roles": "Database Architect",
+            "Project Duration": "NOT AVAILABLE",
+            "Project Domain": "Telecommunication",
+            "Project Technologies": [
+                "Oracle 19c",
+                "12c",
+                "11g",
+                "OEM 13c",
+                "Exadata",
+                "Golden Gate",
+                "AWS",
+                "DMS",
+                "EC2",
+                "RDS",
+                "PostgreSQL",
+                "ADDM",
+                "AWR"
+            ]
+        },
+        {
+            "Project Name": "RISE (Retail Information System)",
+            "Project Description": "Responsible for architecting, designing, implementing and supporting of cloud based infrastructure and its solutions. Monitored the various database activities such as Backup, Error Logs, Space, Object, Performance, User and Session monitoring to ensure proper Capacity and Availability.",
+            "Project Roles": "Technical Lead",
+            "Project Duration": "NOT AVAILABLE",
+            "Project Domain": "Retail",
+            "Project Technologies": [
+                "Oracle 10g",
+                "11g",
+                "OEM 12c",
+                "Golden Gate",
+                "ADDM",
+                "AWR"
+            ]
+        },
+        {
+            "Project Name": "RSA (Royal Sun Alliance)",
+            "Project Description": "Responsible for administration and supporting Oracle 11gR2 databases in 24x7 production support. Oracle RAC & DataGuard on Linux and Windows Server 2008 - administration.",
+            "Project Roles": "DMA",
+            "Project Duration": "NOT AVAILABLE",
+            "Project Domain": "Insurance",
+            "Project Technologies": [
+                "Oracle 10g",
+                "11g",
+                "RAC",
+                "Data Guard",
+                "OEM 12c",
+                "Exadata",
+                "ADDM",
+                "AWR"
+            ]
+        },
+        {
+            "Project Name": "WFMS (Work Flow Management System)",
+            "Project Description": "Responsible for administration and supporting Oracle 10g and 11g databases. Handling incidents on backups, networking and database performance.",
+            "Project Roles": "Sr. DBA",
+            "Project Duration": "NOT AVAILABLE",
+            "Project Domain": "ERP",
+            "Project Technologies": [
+                "Oracle 10g",
+                "11g",
+                "RAC",
+                "Dimension Studio Apps",
+                "BIRT",
+                "ADDM",
+                "AWR"
+            ]
+        },
+        {
+            "Project Name": "Material Management (Parle Products Ltd)",
+            "Project Description": "Oracle DBs administration - 10g/11g on Windows 2008, RHEL6/7. OEM Cloud Control 11g and 12c installation, configuration and daily administration.",
+            "Project Roles": "Lead DBA",
+            "Project Duration": "NOT AVAILABLE",
+            "Project Domain": "Material Management",
+            "Project Technologies": [
+                "Oracle 10g",
+                "11g",
+                "OEM Cloud Control 11g",
+                "12c",
+                "Data Guard",
+                "Oracle WebLogic"
+            ]
+        },
+        {
+            "Project Name": "Electronics Corporation of Tamilnadu Ltd., (ELCOT)",
+            "Project Description": "Responsible for both manage and support all Production, Development and UAT Instances of Oracle 10g/11g. Created and Maintained Users and Roles with Appropriate Privileges and Profiles.",
+            "Project Roles": "Oracle DBA",
+            "Project Duration": "NOT AVAILABLE",
+            "Project Domain": "NOT AVAILABLE",
+            "Project Technologies": [
+                "Oracle 10g",
+                "11g",
+                "RMAN",
+                "OEM",
+                "PL/SQL"
+            ]
+        },
+        {
+            "Project Name": "Integrated Office Automation System (IOAS)",
+            "Project Description": "Oracle DBs administration - 10g/11g. Oracle RAC & DataGuard on OEL Linux OS - administration.",
+            "Project Roles": "Oracle DBA",
+            "Project Duration": "NOT AVAILABLE",
+            "Project Domain": "ERP",
+            "Project Technologies": [
+                "Oracle 10g",
+                "11g",
+                "RAC",
+                "Data Guard",
+                "Unix/Linux OS",
+                "Dimension Studio Apps",
+                "BIRT"
+            ]
+        },
+        {
+            "Project Name": "Order Management System(OMS)",
+            "Project Description": "Installation of Oracle 10g databases. Maintenance of oracle 10g database on Windows & Linux environment.",
+            "Project Roles": "Engineer",
+            "Project Duration": "NOT AVAILABLE",
+            "Project Domain": "NOT AVAILABLE",
+            "Project Technologies": [
+                "Oracle 10g"
+            ]
+        },
+        {
+            "Project Name": "Colloquy",
+            "Project Description": "Monitoring database, which include basic health checks, database growth and Re-organization of Tablespaces growth of objects. Monitoring the database for CPU utilization, Blocking Locks and changing priority or killing unwanted user processes.",
+            "Project Roles": "Software Engineer",
+            "Project Duration": "NOT AVAILABLE",
+            "Project Domain": "NOT AVAILABLE",
+            "Project Technologies": [
+                "Oracle Database"
+            ]
+        }
+    ]
+}
